@@ -193,6 +193,11 @@ body > header {
     border-radius: 25px;
 }
 
+.reference-tlacitko-obtok {
+    float: right;
+    margin-left: 10px;
+}
+
 .kontakt-tlacitko {
     background: #ef6534;
     padding: 10px 20px;
